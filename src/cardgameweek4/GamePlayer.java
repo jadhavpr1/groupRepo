@@ -6,7 +6,7 @@ package cardgameweek4;
  *
  * @author dancye, 2019
  * @modified Paul Bonenfant Jan 2020
- * modifier priyanka
+ * modifier pAaqib
  */
 public class GamePlayer {
 
