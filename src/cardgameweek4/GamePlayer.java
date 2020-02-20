@@ -6,6 +6,7 @@ package cardgameweek4;
  *
  * @author dancye, 2019
  * @modified Paul Bonenfant Jan 2020
+ * modifier priyanka
  */
 public class GamePlayer {
 
@@ -15,6 +16,7 @@ public class GamePlayer {
         for (Card card : cardHand.cards) {
             System.out.println(card.getRank() + " of " + card.getColour());
         }
+        
         // System.out.println(ch.cards); show what happens when there is no toString()
     }
 
